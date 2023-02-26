@@ -1,13 +1,13 @@
 {
     "expo": {
-        "name": "collecti-app",
-        "slug": "collecti-app",
+        "name": "food-app",
+        "slug": "food-app",
         "version": "1.0.0",
         "orientation": "portrait",
-        "icon": "./assets/collecti3.png",
+        "icon": "./assets/favicon.png",
         "userInterfaceStyle": "light",
         "splash": {
-            "image": "./assets/collecti.png",
+            "image": "./assets/icon.png",
             "resizeMode": "contain",
             "backgroundColor": "#ffffff"
         },
