@@ -3,7 +3,7 @@
         "name": "food-app",
         "slug": "food-app",
         "version": "1.0.0",
-        "orientation": "portrait",
+        "orientation": "landscape",
         "icon": "./assets/favicon.png",
         "userInterfaceStyle": "light",
         "splash": {
